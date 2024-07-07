@@ -17,4 +17,4 @@ function triArea(height, width) {
   return height * width
 }
 
-console.log(triArea(10,10))
+// console.log(triArea(10,10))
